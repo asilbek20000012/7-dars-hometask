@@ -134,7 +134,7 @@
   
       grid-template-columns: 1fr;
   
-      @media (min-width: 345px) and (max-width: 1023px) {
+      @media (min-width: 400px) and (max-width: 1023px) {
         grid-template-columns: repeat(2, 1fr);
       }
   
